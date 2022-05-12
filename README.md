@@ -1,4 +1,4 @@
-# upload-app
+# How to upload a React Native app to Google Play Console and Apple Store Connect.
 Instructions on how to upload a React Native app.
 
 
